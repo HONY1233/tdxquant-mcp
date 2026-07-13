@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "tdxquant": {
+      "command": "python",
+      "args": ["server.py"],
+      "env": {}
+    }
+  }
+}
